@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://i.imgur.com/rDty7xz.png" alt="logo" height="360px"></h2>
 <p align="center">
-<a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg" height="60px></a>
+<a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg" height="60px</a>
   </p>
 # EdgeGPT-ToolBox
 "EdgeGPT-ToolBox" is an open-source Python tool with 40 tools for text processing, file management, online research, image creation and more. It utilizes textdavinci003, GPT3.5, GPT-4 BingChat AI.
