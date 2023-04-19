@@ -60,6 +60,21 @@ Once all the requirements are installed, you're ready to use the tools provided 
   </h6>
 
 Have fun!
+<h1>Guide to Using EdgeGPT-ToolBox</h1>
+<h5>To use EdgeGPT-ToolBox, you need to download the JSON file of cookies from the Bing.com website and insert it into the cookie.json file located in the main directory of the tool.
+
+Here's how to do it:
+
+* Open your browser and go to the Bing.com website.
+* Install the Cookie-Editor extension on your browser.
+* Click on the Cookie-Editor icon and select "Export--->Export as JSON" to copy the JSON file of the Bing.com cookies.
+* Open the cookie.json file in the main directory of EdgeGPT-ToolBox.
+* Replace the entire content of the cookie.json file with the copied JSON file of the Bing.com cookies.**
+* Save and close the cookie.json file.
+Now you're ready to use EdgeGPT-ToolBox. Launch the tool and follow the instructions to use it effectively.
+  </h5>
+
+
 
 
 
