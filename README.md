@@ -8,46 +8,60 @@
 <h2>This project is a collection of various tools and utilities to help users with their daily tasks. It includes several functionalities such as a chatbot, book information, earthquake tracking, and more.</h2>
 <h1>Tools and Functionalities</h1>
 
-* **💬 Normal Chatbot (textdavinci003) (1)**
-* **💊 Drug Interactions (2)**
-* **📓 Book Information (3)**
-* **🏚️ Earthquakes Tracking (4)**
-* **🔭 NASA Information (5)**
-* **🎻 Music Downloader (6)**
-* **🤖 Advanced Chatbot (GPT3.5-TURBO) (7)**
-* **🖼️ Image Generator (8)**
-* **🗞️ Google News (9)**
-* **🌙 Moon/Alba and Tramonto Info (10)**
-* **🌐 Web Navigation (11)**
-* **⚠️ PC Information (12)**
-* **🖌️ ASCII Font Creator (13)**
-* **💌 Telegram/WhatsApp Chat (14)**
-* **⚡️ Weather (15)**
-* **🎞️ CarbonNowSh (16)**
-* **🍿 Movie Information (17)**
-* **☄️ Asteroid Information (18)**
-* **🦠 File Antivirus (19)**
-* **👅 Translator (21)**
-* **🧮 Advanced Calculator (22)**
-* **📕 Text Analyzer (23)**
-* **💱 Currency Converter (Real-Time) (24)**
-* **🪙 Cryptocurrency Information (25)**
-* **📂 Python File Formatter (26)**
-* **💭 Web Images (27)**
-* **🌈 Color Palette Codes (GUI) (28)**
-* **🔗 QR Code Generator (29)**
-* **🍖 Recipe Book (ONLINE) (30)**
-* **⭐️ Bing Chat (GPT4 GUI) (31)**
-* **🔏 Image Text Analyzer (32)**
-* **🛰️ File Transfer (WIFI) (33)**
-* **📱 IP Address Information (34)**
-* **🗂️ File/Folder Converter (zip and more) (35)**
-* **🎈 SpeedTest (36)**
-* **🚪 Port Control (Open, Close) (37)**
-* **💻 PC Resources (38)**
-* **💬 Bing Chat (GPT4 CLI) (39)**
-* **🥱 Time Zones (40)**
-* **🚙 Travel Expenses Calculator (41)**
+* **💬 Normal Chatbot (textdavinci003)**
+* **💊 Drug Interactions**
+* **📓 Book Information**
+* **🏚️ Earthquakes Tracking**
+* **🔭 NASA Information**
+* **🎻 Music Downloader**
+* **🤖 Advanced Chatbot (GPT3.5-TURBO)**
+* **🖼️ Image Generator**
+* **🗞️ Google News**
+* **🌙 Moon/Alba and Tramonto Info**
+* **🌐 Web Navigation**
+* **⚠️ PC Information**
+* **🖌️ ASCII Font Creator**
+* **💌 Telegram/WhatsApp Chat**
+* **⚡️ Weather**
+* **🎞️ CarbonNowSh**
+* **🍿 Movie Information**
+* **☄️ Asteroid Information**
+* **🦠 File Antivirus**
+* **👅 Translator**
+* **🧮 Advanced Calculator**
+* **📕 Text Analyzer**
+* **💱 Currency Converter (Real-Time)**
+* **🪙 Cryptocurrency Information**
+* **📂 Python File Formatter**
+* **💭 Web Images**
+* **🌈 Color Palette Codes (GUI)**
+* **🔗 QR Code Generator**
+* **🍖 Recipe Book (ONLINE)**
+* **⭐️ Bing Chat (GPT4 GUI)**
+* **🔏 Image Text Analyzer**
+* **🛰️ File Transfer (WIFI)**
+* **📱 IP Address Information**
+* **🗂️ File/Folder Converter (zip and more)**
+* **🎈 SpeedTest**
+* **🚪 Port Control (Open, Close)**
+* **💻 PC Resources**
+* **💬 Bing Chat (GPT4 CLI)**
+* **🥱 Time Zones**
+* **🚙 Travel Expenses Calculator**
+<h1>Installing Requirements Guide</h1>
+<h3>To use the tools contained in this Github repository, it is necessary to install the requirements listed in the requirements.txt file. Here's how to do it:
+
+* Make sure you have Python 3.7 or later installed on your system.
+* Download or clone the Github repository to your computer.
+* Open the terminal and navigate to the downloaded repository folder.
+* Run the command pip install -r requirements.txt to install all the requirements listed in the requirements.txt file.
+* Wait for the command to finish installing all the required packages.
+Once all the requirements are installed, you're ready to use the tools provided in this repository. To start a tool, open the terminal, navigate to the tool's folder, and run the command to start it (usually indicated in the tool's README file).
+  </h3>
+
+Have fun!
+
+
 
 
 ![workello](https://user-images.githubusercontent.com/100368940/233141567-94a5b58e-b8e2-4019-a6c7-07ec4d9a157b.gif)
