@@ -6,5 +6,4 @@
 
 
 
-Uploading Registrazione schermo 2023-03-03 alle 01.05.02.mov…
-
+![pippa](https://user-images.githubusercontent.com/100368940/233132635-bc54f34e-0abe-4115-a529-a04f1f01581b.gif)
