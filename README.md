@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://i.imgur.com/rDty7xz.png" alt="logo" height="360px"></h3>
+<h2 align="left"><img src="https://i.imgur.com/rDty7xz.png" alt="logo" height="360px"></h2>
 <p align="center">
 <a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
   </p>
