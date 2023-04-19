@@ -49,7 +49,7 @@
 * **🥱 Time Zones**
 * **🚙 Travel Expenses Calculator**
 <h1>Installing Requirements Guide</h1>
-<h3>To use the tools contained in this Github repository, it is necessary to install the requirements listed in the requirements.txt file. Here's how to do it:
+<h3>**To use the tools contained in this Github repository, it is necessary to install the requirements listed in the requirements.txt file. Here's how to do it:**
 
 * Make sure you have Python 3.7 or later installed on your system.
 * Download or clone the Github repository to your computer.
