@@ -4,8 +4,9 @@
   </p>
 # EdgeGPT-ToolBox
 "EdgeGPT-ToolBox" is an open-source Python tool with 40 tools for text processing, file management, online research, image creation and more. It utilizes textdavinci003, GPT3.5, GPT-4 BingChat AI.
-<h1>Descrizione</h1>
-<h3>This project is a collection of various tools and utilities to help users with their daily tasks. It includes several functionalities such as a chatbot, book information, earthquake tracking, and more.</h3>
+<h1>Description</h1>
+<h2>This project is a collection of various tools and utilities to help users with their daily tasks. It includes several functionalities such as a chatbot, book information, earthquake tracking, and more.</h2>
+<h1>Tools and Functionalities</h1>
 
 
 ![workello](https://user-images.githubusercontent.com/100368940/233141567-94a5b58e-b8e2-4019-a6c7-07ec4d9a157b.gif)
