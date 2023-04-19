@@ -6,7 +6,5 @@
 
 
 
+![workello](https://user-images.githubusercontent.com/100368940/233141567-94a5b58e-b8e2-4019-a6c7-07ec4d9a157b.gif)
 
-
-
-![workello2](https://user-images.githubusercontent.com/100368940/233140838-54a49494-853d-4816-ad4b-1f0c08294bfd.gif)
